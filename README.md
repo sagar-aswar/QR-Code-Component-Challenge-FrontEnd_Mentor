@@ -11,7 +11,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://sagar-aswar.github.io/QR-Code-Component-Challenge-FrontEnd_Mentor/)
+- Live Site URL: [Click here](https://sagar-aswar.github.io/QR-Code-Component-Challenge-FrontEnd_Mentor/)
 
 ## My process
 
